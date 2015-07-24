@@ -3,7 +3,7 @@
 *** Requirements:
 		 -Python
 		 -Yt library
-		 -HDF5 or any compatiable input data format yt accepts
+		 -HDF5 or any compatiable data format yt accepts
 Will just take in one file at a time and the script must be changed in order for the image desired to be rendered is a different one. 
 It will do the Hue Sat Value 2 rendering and will save it as a .png file. 
 Not a very fancy code, but just something to push for the meanwhile to get people started on a quick simple volume rendering script. Will be a .py file can be easily copy and pasted into an ipynb, no adjustments would have to be made
