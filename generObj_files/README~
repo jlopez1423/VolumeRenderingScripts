@@ -1,5 +1,22 @@
 -->Version 1.0
-*** Requirements:
+****Requirements:
                  -Python
                  -Yt library
-		 
+		 -HDF5 or any other compatible input data format that yt accepts
+		 -AstroBlend installed on your personal computer
+In order to use these files you must download and install AstroBlend from Jill Naiman's website. Link is provided: http://www.astroblend.com/getstarted.html
+This has not been modified to take in a series of files at a time and generate the object and mtl files. 
+When working on your code for rendering your objects in Blender have both the surface.obj and surface.mtl files in the directory. You will only need to reference the .obj file name when providing it in the Blender code block, but the .obj file does reference the .mtl file. 
+
+****Note: Will try to provide some sample snapshots of what this type of rendering looks like. I will also attempt to provide the code that goes inside of Blender when you write to generate the object in Blender itself.
+
+****Still encountering Runtime error issues, but should be fixed in the next code push. These runtime errors do not in any way effect the output. 
+****Examples: Coming to a push near you.
+
+#############################################################################################################################################################################
+You can contact me via email or text message or skype
+Jose Lopez
+primary email: jlopez46@ucsc.edu
+secondary email: joseangellopez1423@hotmail.com
+Text: 8312413324
+

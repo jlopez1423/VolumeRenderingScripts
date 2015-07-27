@@ -10,7 +10,8 @@ When working on your code for rendering your objects in Blender have both the su
 
 ****Note: Will try to provide some sample snapshots of what this type of rendering looks like. I will also attempt to provide the code that goes inside of Blender when you write to generate the object in Blender itself.
 
-****Still encountering Runtime error issues, but should be fixed in the next code push. These runtime errors do not in any way effect the output. 
+****Still encountering Runtime error issues, but should be fixed in the next code push. These runtime errors do not in any way effect the output.
+****Files that are generated are very very large so they wil take a while to render. 
 ****Examples: Coming to a push near you.
 
 #############################################################################################################################################################################
