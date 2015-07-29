@@ -1,0 +1,17 @@
+//Still need to finish this README 
+
+-->Version 1.0
+****Requirements:
+		-Python
+                 -Yt library
+                 -HDF5 or any other compatible input data format that yt accepts 
+
+For this script you will take a directory at a time and use a for loop and the glob module to go through each one of the files(in this example hdf5) and use the camera object to rotate around your simualtion object.
+This will output several .png files, 5 for each simulation file provided.
+
+#############################################################################################################################################################################
+You can contact me via email or text message or skype
+Jose Lopez
+primary email: jlopez46@ucsc.edu
+secondary email: joseangellopez1423@hotmail.com
+Text: 8312413324
