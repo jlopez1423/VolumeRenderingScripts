@@ -1,2 +1,19 @@
-Scripts for zooming in wil live here as soon as I get a working script that generates some images(so that I can include in here)
+-->Version 1.0
+**** Runs on Yt Version 3.0.1
+*** Requirements:
+	 -Python
+		 -Yt library
+		      -HDF5 or any compatiable input data format yt accepts
 
+This script will take in one file at a time, and the way I have it set up is that it will zoom in by a factor of 2.5 over 60 frames. This can be changed by the user depending on the desired outcome, though this would make for a smoother transition when creating movies.
+
+****Note: This will generate a series of .png files
+****	  No ghosting as of yet, which should be the only warning the compiler gives, which shouldn't be too much of an issue.
+
+#################################################################################################################################################################
+You can contact me via email, text message or skype
+Jose Lopez
+primary email: jlopez46@ucsc.edu
+secondary email: joseangellopez1423@hotmail.com
+Text: 8312413324
+skype: joseangellopez1423
